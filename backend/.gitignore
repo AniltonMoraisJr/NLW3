@@ -1,6 +1,9 @@
 #SQLite
 *.sqlite
 
+#Upload
+uploads/
+
 # Logs
 logs
 *.log
